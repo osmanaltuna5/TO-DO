@@ -1,0 +1,20 @@
+
+.head{
+    background-color:rgb(91, 20, 124);
+   
+    display: flex;
+    flex-direction: column;
+}
+.nameHead h1{
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+.inputSection{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
